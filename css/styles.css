@@ -17,6 +17,7 @@ body {
   float: left;
   margin: 35px;
   padding: 20px;
+  box-shadow: 5px 10px;
 }
 .after {
   text-align: center;
@@ -24,4 +25,5 @@ body {
   float: right;
   margin: 35px;
   padding: 20px;
+  box-shadow: 5px 10px;
 }
